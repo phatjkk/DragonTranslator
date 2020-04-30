@@ -1,0 +1,38 @@
+﻿<Window x:Class="Dragon_Translator.TransText"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dragon_Translator"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="TransText" Height="244.786" Width="609.071" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" SizeToContent="Width" WindowStyle="None">
+    <Grid Background="#FF34495E">
+        <Grid HorizontalAlignment="Left" Height="245" VerticalAlignment="Top" Width="300" Background="#FF2C3E50">
+            <TextBox  Name="org_text" HorizontalAlignment="Left" Height="175" Margin="10,29,0,0" TextWrapping="Wrap" Text="What's your name?" VerticalAlignment="Top" Width="280" CaretBrush="White" Foreground="White" FontSize="16" BorderBrush="White"/>
+
+        </Grid>
+
+        <materialDesign:PackIcon
+    Kind="Audio"
+    ToolTip="Listen"
+    Height="36"
+    Width="29" Margin="310,209,0,0" Foreground="#FFFDFDFD" RenderTransformOrigin="0.517,0.977" MouseDown="PackIcon_MouseDown_1" />
+
+        <TextBox Name="new_text" HorizontalAlignment="Left" Height="175" Margin="310,29,0,0" TextWrapping="Wrap" Text="Tên bạn là gì?" VerticalAlignment="Top" Width="280" CaretBrush="White" Foreground="White" FontSize="16" BorderBrush="White"/>
+        <Label Name="lang_out" Content="Vietnamese" HorizontalAlignment="Left" Height="24" Margin="310,0,0,0" VerticalAlignment="Top" Width="112" Foreground="White" FontFamily="Segoe UI Emoji" FontStyle="Italic"/>
+        <Label Name="lang_in" Content="English" HorizontalAlignment="Left" Height="24" Margin="10,0,0,0" VerticalAlignment="Top" Width="112" Foreground="White" FontFamily="Segoe UI Emoji" FontStyle="Italic"/>
+        <materialDesign:PackIcon
+            ToolTip="Listen"
+            Kind="Audio"
+            Height="36"
+            Width="29" Margin="10,209,0,0" Foreground="#FFFDFDFD" RenderTransformOrigin="0.517,0.977" MouseDown="PackIcon_MouseDown" />
+        <materialDesign:PackIcon
+            Kind="ContentCopy"
+            ToolTip="Copy"
+            Height="36"
+            Width="29" Margin="561,209,0,0" Foreground="#FFFDFDFD" RenderTransformOrigin="0.517,0.977" MouseDown="PackIcon_MouseDown_2" />
+        <Label Content="╳" HorizontalAlignment="Left" Height="29" Margin="580,0,0,0" VerticalAlignment="Top" Width="19" Foreground="#DDFFFFFF" MouseDown="Label_MouseDown"/>
+        <Label Content="-" HorizontalAlignment="Left" Height="29" Margin="556,-9,0,0" VerticalAlignment="Top" Width="19" Foreground="#DDFFFFFF" FontSize="20" MouseDown="Label_MouseDown_1"/>
+    </Grid>
+</Window>

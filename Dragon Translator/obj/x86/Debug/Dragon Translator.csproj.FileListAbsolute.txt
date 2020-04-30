@@ -1,0 +1,121 @@
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.Wpf.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.Wpf.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.Wpf.XML
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\cef.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\cef_100_percent.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\cef_200_percent.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\cef_extensions.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\chrome_elf.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\d3dcompiler_47.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\devtools_resources.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\icudtl.dat
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\libcef.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\libEGL.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\libGLESv2.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\am.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ar.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\bg.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\bn.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ca.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\cs.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\da.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\de.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\el.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\en-GB.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\en-US.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\es-419.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\es.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\et.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\fa.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\fi.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\fil.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\fr.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\gu.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\he.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\hi.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\hr.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\hu.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\id.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\it.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ja.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\kn.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ko.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\lt.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\lv.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ml.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\mr.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ms.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\nb.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\nl.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\pl.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\pt-BR.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\pt-PT.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ro.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ru.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\sk.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\sl.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\sr.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\sv.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\sw.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\ta.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\te.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\th.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\tr.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\uk.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\vi.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\zh-CN.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\locales\zh-TW.pak
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\natives_blob.bin
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\README.txt
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\snapshot_blob.bin
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\v8_context_snapshot.bin
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\CefSharp.XML
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\Dragon Translator.exe.config
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\Dragon Translator.exe
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\Dragon Translator.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\INIFileParser.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\MaterialDesignColors.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\NAudio.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\INIFileParser.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\MaterialDesignColors.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\NAudio.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.csprojAssemblyReference.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Loading.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Test.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\TransFile.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\TransText.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\TransWord.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\App.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator_MarkupCompile.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator_MarkupCompile.lref
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\App.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Loading.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\MainWindow.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Test.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\TransFile.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\TransText.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\TransWord.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.g.resources
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon_Translator.Properties.Resources.resources
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.csproj.GenerateResource.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.csproj.CopyComplete
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.exe
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\x86\Debug\Dragon Translator.pdb

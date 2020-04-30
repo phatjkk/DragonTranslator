@@ -1,0 +1,41 @@
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\Dragon Translator.exe.config
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\Dragon Translator.exe
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\Dragon Translator.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.csprojAssemblyReference.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\MainWindow.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\App.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator_MarkupCompile.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator_MarkupCompile.lref
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\MainWindow.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.g.resources
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon_Translator.Properties.Resources.resources
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.csproj.GenerateResource.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.exe
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Dragon Translator.csproj.CopyComplete
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\App.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\INIFileParser.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\INIFileParser.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\TransWord.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\TransWord.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\TransText.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\TransText.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Loading.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Loading.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\NAudio.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\NAudio.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Test.g.cs
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\obj\Debug\Test.baml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\x86\liblept1753.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\x86\libtesseract3052.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\x64\liblept1753.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\x64\libtesseract3052.dll
+C:\Users\Ngoc Nguyen\source\repos\Dragon Translator\Dragon Translator\bin\Debug\Tesseract.dll

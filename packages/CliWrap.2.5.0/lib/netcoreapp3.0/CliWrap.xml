@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CliWrap</name>
+    </assembly>
+    <members>
+        <member name="T:CliWrap.Cli">
+            <summary>
+            Command line interface wrapper.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Cli.ProcessId">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.#ctor(System.String)">
+            <summary>
+            Initializes an instance of <see cref="T:CliWrap.Cli"/> on the target executable.
+            </summary>
+        </member>
+        <member name="M:CliWrap.Cli.SetWorkingDirectory(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetArguments(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetArguments(System.Collections.Generic.IReadOnlyList{System.String})">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardInput(System.IO.Stream)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardInput(System.String,System.Text.Encoding)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardInput(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetEnvironmentVariable(System.String,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardOutputEncoding(System.Text.Encoding)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardErrorEncoding(System.Text.Encoding)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardOutputCallback(System.Action{System.String})">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardOutputClosedCallback(System.Action)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardErrorCallback(System.Action{System.String})">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetStandardErrorClosedCallback(System.Action)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetCancellationToken(System.Threading.CancellationToken,System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.SetCancellationToken(System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.EnableExitCodeValidation(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.EnableStandardErrorValidation(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.Execute">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.ExecuteAsync">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.ExecuteAndForget">
+            <inheritdoc />
+        </member>
+        <member name="M:CliWrap.Cli.Wrap(System.String)">
+            <summary>
+            Initializes an instance of <see cref="T:CliWrap.ICli"/> on the target executable.
+            </summary>
+        </member>
+        <member name="T:CliWrap.Exceptions.ExecutionResultValidationException">
+            <summary>
+            Base class for exceptions that are thrown when an instance of <see cref="P:CliWrap.Exceptions.ExecutionResultValidationException.ExecutionResult"/> fails a certain validation.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Exceptions.ExecutionResultValidationException.ExecutionResult">
+            <summary>
+            Execution result.
+            </summary>
+        </member>
+        <member name="M:CliWrap.Exceptions.ExecutionResultValidationException.#ctor(CliWrap.Models.ExecutionResult,System.String)">
+            <summary>
+            Initializes an instance of <see cref="T:CliWrap.Exceptions.ExecutionResultValidationException"/>.
+            </summary>
+        </member>
+        <member name="T:CliWrap.Exceptions.ExitCodeValidationException">
+            <summary>
+            Thrown if underlying process reported a non-zero exit code.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Exceptions.ExitCodeValidationException.ExitCode">
+            <summary>
+            Exit code reported by the underlying process.
+            </summary>
+        </member>
+        <member name="M:CliWrap.Exceptions.ExitCodeValidationException.#ctor(CliWrap.Models.ExecutionResult)">
+            <summary>
+            Initializes an instance of <see cref="T:CliWrap.Exceptions.ExitCodeValidationException"/>.
+            </summary>
+        </member>
+        <member name="T:CliWrap.Exceptions.StandardErrorValidationException">
+            <summary>
+            Thrown if underlying process reported an error.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Exceptions.StandardErrorValidationException.StandardError">
+            <summary>
+            Standard error data produced by underlying process.
+            </summary>
+        </member>
+        <member name="M:CliWrap.Exceptions.StandardErrorValidationException.#ctor(CliWrap.Models.ExecutionResult)">
+            <summary>
+            Initializes an instance of <see cref="T:CliWrap.Exceptions.StandardErrorValidationException"/>.
+            </summary>
+        </member>
+        <member name="T:CliWrap.ICli">
+            <summary>
+            An interface for <see cref="T:CliWrap.Cli"/>.
+            </summary>
+        </member>
+        <member name="P:CliWrap.ICli.ProcessId">
+            <summary>
+            Process ID associated with the last execution or null if the process hasn't been started yet.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetWorkingDirectory(System.String)">
+            <summary>
+            Sets the working directory.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetArguments(System.String)">
+            <summary>
+            Sets the command line arguments.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetArguments(System.Collections.Generic.IReadOnlyList{System.String})">
+            <summary>
+            Sets the command line arguments.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardInput(System.IO.Stream)">
+            <summary>
+            Sets the standard input.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardInput(System.String,System.Text.Encoding)">
+            <summary>
+            Sets the standard input to given string using given encoding.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardInput(System.String)">
+            <summary>
+            Sets the standard input to given string.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetEnvironmentVariable(System.String,System.String)">
+            <summary>
+            Sets an environment variable to the given value.
+            Can be called more than once to set multiple environment variables.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardOutputEncoding(System.Text.Encoding)">
+            <summary>
+            Sets the text encoding used for standard output stream.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardErrorEncoding(System.Text.Encoding)">
+            <summary>
+            Sets the text encoding used for standard error stream.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardOutputCallback(System.Action{System.String})">
+            <summary>
+            Sets the delegate that will be called whenever a new line is appended to standard output stream.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardOutputClosedCallback(System.Action)">
+            <summary>
+            Sets the delegate that will be called whenever the standard output stream is closed.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardErrorCallback(System.Action{System.String})">
+            <summary>
+            Sets the delegate that will be called whenever a new line is appended to standard error stream.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetStandardErrorClosedCallback(System.Action)">
+            <summary>
+            Sets the delegate that will be called whenever the standard error stream is closed.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetCancellationToken(System.Threading.CancellationToken,System.Boolean)">
+            <summary>
+            Sets the cancellation token which will cause the underlying process to be killed when it's triggered.
+            You can configure whether to also kill any descendant processes in addition to the main process.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.SetCancellationToken(System.Threading.CancellationToken)">
+            <summary>
+            Sets the cancellation token which will cause the underlying process to be killed when it's triggered.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.EnableExitCodeValidation(System.Boolean)">
+            <summary>
+            Enables or disables validation that will throw <see cref="T:CliWrap.Exceptions.ExitCodeValidationException"/> if the resulting exit code is not zero.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.EnableStandardErrorValidation(System.Boolean)">
+            <summary>
+            Enables or disables validation that will throw <see cref="T:CliWrap.Exceptions.StandardErrorValidationException"/> if the resulting standard error is not empty.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.Execute">
+            <summary>
+            Executes the process and synchronously waits for it to exit.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.ExecuteAsync">
+            <summary>
+            Executes the process and asynchronously waits for it to exit.
+            </summary>
+        </member>
+        <member name="M:CliWrap.ICli.ExecuteAndForget">
+            <summary>
+            Executes the process and doesn't wait for it to exit.
+            </summary>
+        </member>
+        <member name="T:CliWrap.Models.ExecutionResult">
+            <summary>
+            Output produced by executing a process.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Models.ExecutionResult.ExitCode">
+            <summary>
+            Process exit code.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Models.ExecutionResult.StandardOutput">
+            <summary>
+            Standard output data.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Models.ExecutionResult.StandardError">
+            <summary>
+            Standard error data.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Models.ExecutionResult.StartTime">
+            <summary>
+            Time at which this execution started.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Models.ExecutionResult.ExitTime">
+            <summary>
+            Time at which this execution finished.
+            </summary>
+        </member>
+        <member name="P:CliWrap.Models.ExecutionResult.RunTime">
+            <summary>
+            Duration of this execution.
+            </summary>
+        </member>
+        <member name="M:CliWrap.Models.ExecutionResult.#ctor(System.Int32,System.String,System.String,System.DateTimeOffset,System.DateTimeOffset)">
+            <summary>
+            Initializes an instance of <see cref="T:CliWrap.Models.ExecutionResult"/> with given output data.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Dragon_Translator.Test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dragon_Translator"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Infomation" Height="359" Width="272" Foreground="#FF2980B9" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Topmost="True" WindowStyle="None">
+    <Grid Margin="0,0,432,208">
+        <Label Content="Infomation" HorizontalAlignment="Left" Height="38" Margin="84,-1,-189,0" VerticalAlignment="Top" Width="105" FontSize="20"/>
+        <Label Content="Author :" HorizontalAlignment="Left" Height="22" Margin="14,179,-69,-97" VerticalAlignment="Top" Width="55" FontWeight="Bold" FontStyle="Italic"/>
+        <Image HorizontalAlignment="Left" Margin="65,37,-198,-23" Width="133" Source="author.jpg"  />
+        <Label Content="Nguyễn Thành Phát" HorizontalAlignment="Left" Height="27" Margin="69,177,-212,-100" VerticalAlignment="Top" Width="143" FontWeight="Bold" Foreground="#FF385898" FontSize="14"/>
+        <Label Content="Youtube :" HorizontalAlignment="Left" Height="22" Margin="14,206,-79,-77" VerticalAlignment="Top" Width="65" FontWeight="Bold" Foreground="#FFF10202"/>
+        <Label Content="AutoitTutorialReturn" HorizontalAlignment="Left" Height="26" Margin="84,206,-262,-81" VerticalAlignment="Top" Width="178" FontWeight="Bold" Foreground="#FFE74C3C" MouseDown="Label_MouseDown_4"/>
+        <Label Content="Facebook :" HorizontalAlignment="Left" Height="22" Margin="14,232,-84,-150" VerticalAlignment="Top" Width="70" FontWeight="Bold" Foreground="#FF385898"/>
+        <Label Content="fb.com/phatjk" HorizontalAlignment="Left" Height="26" Margin="89,232,-189,-154" VerticalAlignment="Top" Width="100" FontWeight="Bold" Foreground="#DD0045FD" MouseDown="Label_MouseDown_1"/>
+        <Label Content="Github :" HorizontalAlignment="Left" Height="22" Margin="14,259,-69,-177" VerticalAlignment="Top" Width="55" FontWeight="Bold"/>
+        <Label Content="github.com/phatjkk" HorizontalAlignment="Left" Height="26" Margin="89,259,-212,-181" VerticalAlignment="Top" Width="123" FontWeight="Bold" MouseDown="Label_MouseDown_2"/>
+        <Label Content="Thank for choosing me ^^" HorizontalAlignment="Left" Height="27" Margin="40,316,-231,-188" VerticalAlignment="Top" Width="191" FontWeight="Bold" Foreground="#FF385898" FontSize="14"/>
+        <Label Content="Paypal :" HorizontalAlignment="Left" Height="26" Margin="14,285,-69,-156" VerticalAlignment="Top" Width="55" FontWeight="Bold" Foreground="#FF2980B9"/>
+        <Label Content="paypal.me/autoittutorial" HorizontalAlignment="Left" Height="26" Margin="89,285,-243,-156" VerticalAlignment="Top" Width="154" FontWeight="Bold" Foreground="#FF2980B9" MouseDown="Label_MouseDown_3"/>
+        <Label Content="╳" HorizontalAlignment="Left" Height="29" Margin="249,-1,-268,0" VerticalAlignment="Top" Width="19" Foreground="#DD000000" MouseDown="Label_MouseDown"/>
+    </Grid>
+</Window>
