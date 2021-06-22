@@ -1,4 +1,4 @@
-DragonTranslator - OCR Desktop Translator
+# DragonTranslator - OCR Desktop Translator
 
 ![Screenshot 2021-04-30 113831](https://user-images.githubusercontent.com/48487157/116681137-c2ba0b00-a9d6-11eb-92ce-24b178eadbf4.png)
 
